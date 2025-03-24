@@ -1,1 +1,3 @@
 # Analise-Financeira
+Desenvolvi um dashboard de análise financeira avançada utilizando o Power BI, oferecendo uma visão geral detalhada da situação financeira da empresa. Inclui análises de receita, custo, despesas e lucro, além de um fluxo de caixa detalhado. Utilizei técnicas de modelagem de dados, visualização de dados e Business Intelligence para criar um painel intuitivo e interativo. Permite aos usuários explorar os dados de forma profunda e tomar decisões informadas com base em insights precisos.
+[Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTljOTE4OWUtZGQ2Zi00ZTZkLThmNDgtZjY2MWZhMjJiMmJjIiwidCI6IjJhZWZhOTZmLWU2MDYtNDYyZC1iYmNlLTE1YTUyMjcxMGVlMiJ9)
